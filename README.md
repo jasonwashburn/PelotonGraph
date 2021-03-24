@@ -6,3 +6,5 @@ Uses the [pylotoncycle](https://github.com/justmedude/pylotoncycle) library and 
 
 Note: Code is mostly skeleton at this point, it was mainly a proof of concept project. The functions themselves work, 
 but I have plans to use them in a bigger project down the road.
+
+<img src="screenshot.png" alt="screenshot">
